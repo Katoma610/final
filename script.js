@@ -24,5 +24,4 @@ let header = document.querySelector('.siteHeader');
 
 button.addEventListener('click', function(){
     header.classList.add("siteHeader-bg");
-    console.log("fdsjlkjfdsjk");
 });
