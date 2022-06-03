@@ -19,6 +19,7 @@ window.onfocus = () => {
     changeTitle('img/icon.jpg', titleOld);
 }
 
+
 let button = document.querySelector('.buttonMedia');
 let header = document.querySelector('.siteHeader');
 
