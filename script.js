@@ -10,7 +10,7 @@ function changeTitle(icon, text){
 
 window.onblur = () => {
     timer = setTimeout(() => {
-        changeTitle('img/emoji.JPG', '😭😭Вернись пожалуйста😭😭')
+        changeTitle('https://katoma610.github.io/final/img/emoji.JPG', '😭😭Вернись пожалуйста😭😭')
     }, 3000);
 }
 
