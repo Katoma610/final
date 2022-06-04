@@ -34,7 +34,7 @@ body{
     display: inline-block;
 }
 .siteHeader-bg{
-    background-image: url("img/bg_1.jpg");
+    background-image: url("../img/bg_1.jpg");
     background-size: cover;
     background-position-x: 50%;
     background-position-y: -30%;
